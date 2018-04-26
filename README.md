@@ -14,7 +14,7 @@ $ cd Movie-Trailer-Website
 $ python entertainment_center.py
 ```
 
-## Troubleshoot
+## Troubleshooting
 
 In case, the webpage doesn't open automatically. 
 
