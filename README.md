@@ -11,12 +11,12 @@ For Movie Trailer Website, clone the GitHub repository.
 ```
 $ git clone https://github.com/reversearrow/Movie-Trailer-Website.git
 $ cd Movie-Trailer-Website
-$ python media.py
+$ python entertainment_center.py
 ```
 
-## Usage
+## Troubleshoot
 
-To start the app.
+In case, the webpage doesn't open automatically. 
 
 ```
 $ Double Click on the Generated HTML page to display the page.
