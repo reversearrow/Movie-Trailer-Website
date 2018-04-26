@@ -7,8 +7,8 @@ class Movies():
 
     Constructor Method Attributes:
         title (str): Title of the Movie.
-        poster_image_url (str): URL of the Movie.
-        trailer_youtube_url (str): URL of the Youtube video
+        poster_image_url (str): URL of the Movie Poster.
+        trailer_youtube_url (str): URL of the Youtube video.
 
     """
 
